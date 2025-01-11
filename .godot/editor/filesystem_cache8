@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1736598195
+icon.svg::CompressedTexture2D::65635254318612556::1736597834::1736598198::1::::<><>::
+PlaymegamesReguler-2OOee.ttf::FontFile::3227535211609957140::1736597834::1736598198::1::::<><>::
+README.md::TextFile::-1::1736597834::0::1::::<><>::
+::res://scenes/::1736597861
+control.tscn::PackedScene::9187329373000374031::1736597834::0::1::::<><>::uid://bl8pbeuhqfjg3::::res://PlaymegamesReguler-2OOee.ttf<>res://scripts/control.gd
+level_1.tscn::PackedScene::1020235467277327104::1736597834::0::1::::<><>::uid://62adr30s2pc::::res://icon.svg
+::res://scripts/::1736597861
+control.gd::GDScript::-1::1736597834::0::1::::<>Control<>::
